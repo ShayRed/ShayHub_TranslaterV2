@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "releaseDate": "2025-11-23",
-  "downloadUrl": "https://github.com/ShayRed/ShayHub_TranslaterV2/releases/download/v2.0.0/",
+  "downloadUrl": "https://github.com/ShayRed/ShayHub_TranslaterV2/releases/download/v2.1.0/",
   "files": [
     "ShayHub_TranslaterV2.exe",
     "ShayHub_TranslaterV2.exe.config",
     "Updater.exe",
     "Updater.exe.config"
   ],
-  "changelog": "🚀 SHAYHUB TRANSLATOR V2.0.0\\n\\n✨ Komplette Neuentwicklung in WPF/C#\\n• Modernes Material Design UI mit Dark Theme\\n• MVVM Architektur für bessere Wartbarkeit\\n• Professionelle Dialog-Verwaltung\\n\\n🌐 Alle Features vom Python-Projekt\\n• DeepL API Integration mit Multi-Key Support\\n• 17 Sprachen Unterstützung\\n• Live Preview Funktion\\n• Alle Dateiformate (locale_game, locale_interface, itemdesc, locale_string, insult)\\n• Format-Specifier Protection\\n• Encoding-Support (euc-kr, utf-8, cp949, etc.)\\n\\n⚡ Verbesserungen\\n• Schnellere Performance\\n• Bessere Fehlerbehandlung\\n• Detaillierte Fortschrittsanzeige\\n• API Usage Tracking\\n• Bug Report System mit Discord Integration"
+  "changelog": "🚀 SHAYHUB TRANSLATOR V2.1.0\\n\\n🎨 NEW FEATURES\\n• Professional Splash Screen with loading animation\\n• Complete English translation\\n• Modern Icon Button design with emojis\\n• Improved progress bar styling\\n• Status bar at bottom\\n• Enhanced tooltips for all controls\\n\\n✨ UI/UX IMPROVEMENTS\\n• Modern CheckBox styling\\n• Better API usage display with percentage\\n• Smooth animations and hover effects\\n• Professional color scheme\\n• Better typography and spacing\\n\\n🔧 TECHNICAL IMPROVEMENTS\\n• Fixed all binding errors\\n• Embedded icon (no separate file needed)\\n• Single EXE with Costura.Fody\\n• Improved update system\\n• Better error handling"
 }
 
